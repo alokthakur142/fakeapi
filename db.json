@@ -1,0 +1,51 @@
+{
+  "tally_customer": [
+    {
+      "id": "tally1",
+      "distributor": "xyz",
+      "name": "Agarwal Store",
+      "Address": "Address",
+      "Mobile": "2828282838383"
+    },
+    {
+      "id": "tally2",
+      "distributor": "xyz",
+      "name": "Ramesh Store",
+      "Address": "Address",
+      "Mobile": "2828282822223"
+    },
+    {
+      "id": "tally3",
+      "distributor": "xyz",
+      "name": "Suresh Store",
+      "Address": "Address",
+      "Mobile": "28282222838383"
+    }
+  ],
+  "beatroute_customer": [
+    {
+      "id": "1",
+      "distributor": "xyz",
+      "name": "Agarwal Store",
+      "Address": "Address",
+      "Mobile": "2828282838383"
+    },
+    {
+      "id": "2",
+      "distributor": "xyz",
+      "name": "Ramesh Store",
+      "Address": "Address",
+      "Mobile": "2828282822223"
+    },
+    {
+      "id": "3",
+      "distributor": "xyz",
+      "name": "Suresh Store",
+      "Address": "Address",
+      "Mobile": "28282222838383"
+    }
+  ],
+  "profile": {
+    "name": "alok"
+  }
+}
